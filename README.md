@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Tia 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/>
+</div>
+
+I am a software developer who is passionate about equitable education, the outdoors, and soccer!
+
+Check out my projects:
+* https://not-trello.onrender.com/
+* https://jumpstarter.onrender.com/
+* https://api-project-2pzb.onrender.com/
 
 <!--
 **tiadoherty/tiadoherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
