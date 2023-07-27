@@ -12,8 +12,7 @@ Check out my projects:
 * [Airbnb Clone](https://api-project-2pzb.onrender.com/)
 
 🌱 I’m currently learning:
-  * Python for data science including pandas and Numpy
-  * R for data science
+  * Python for data science
   * Three.js
 
 🔭 I’m currently working on:
